@@ -1,6 +1,6 @@
 "use client";
 
-import TourGuide from "@/components/TourGuide";
+import TourGuide from "@/components/tour-guide";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
